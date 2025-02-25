@@ -11,7 +11,7 @@
 ---
 
 ### **🌟 About Me**
-- 🔭 I’m currently working on **exciting open-source projects**.
+
 - 🌱 Learning **React, Next.js, and AI/ML**.
 - 💬 Ask me about **JavaScript, Python, and anything UI**.
 
